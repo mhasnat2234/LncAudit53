@@ -1,0 +1,199 @@
+target,condition,log2FC,fold_change,source,note
+21A,WT,4.264,19.219,digitized,
+21A,R175H,4.93,30.483,censored,bound (|log2FC|>=5)
+21A,L194F,-4.982,0.032,censored,bound (|log2FC|>=5)
+21A,R273H,-4.982,0.032,censored,bound (|log2FC|>=5)
+21A,R280K,3.126,8.731,digitized,
+21A,E285K,3.17,9.0,digitized,
+Air,WT,-4.982,0.032,censored,bound (|log2FC|>=5)
+Air,R175H,-1.848,0.278,digitized,
+Air,L194F,-1.961,0.257,digitized,
+Air,R273H,-4.982,0.032,censored,bound (|log2FC|>=5)
+Air,R280K,1.874,3.665,digitized,
+Air,E285K,-2.863,0.137,digitized,
+Alpha 280,WT,0.35,1.275,digitized,
+Alpha 280,R175H,0.622,1.539,digitized,
+Alpha 280,L194F,0.35,1.275,digitized,
+Alpha 280,R273H,0.622,1.539,digitized,
+Alpha 280,R280K,-1.06,0.48,digitized,
+Alpha 280,E285K,2.855,7.233,digitized,
+ANRIL,WT,0.893,1.857,digitized,
+ANRIL,R175H,0.385,1.306,digitized,
+ANRIL,L194F,-0.044,0.97,digitized,
+ANRIL,R273H,-0.009,0.994,digitized,
+ANRIL,R280K,0.114,1.082,digitized,
+ANRIL,E285K,2.504,5.674,digitized,
+anti-NOS2A,WT,0.385,1.306,digitized,
+anti-NOS2A,R175H,-1.454,0.365,digitized,
+anti-NOS2A,L194F,-0.236,0.849,digitized,
+anti-NOS2A,R273H,0.736,1.665,digitized,
+anti-NOS2A,R280K,1.524,2.875,digitized,
+anti-NOS2A,E285K,3.17,9.0,digitized,
+BC200,WT,-0.236,0.849,digitized,
+BC200,R175H,-0.788,0.579,digitized,
+BC200,L194F,-0.595,0.662,digitized,
+BC200,R273H,1.637,3.111,digitized,
+BC200,R280K,1.41,2.657,digitized,
+BC200,E285K,3.126,8.731,digitized,
+DISC2 (family),WT,-4.982,0.032,censored,bound (|log2FC|>=5)
+DISC2 (family),R175H,-4.982,0.032,censored,bound (|log2FC|>=5)
+DISC2 (family),L194F,-4.982,0.032,censored,bound (|log2FC|>=5)
+DISC2 (family),R273H,-4.982,0.032,censored,bound (|log2FC|>=5)
+DISC2 (family),R280K,-4.982,0.032,censored,bound (|log2FC|>=5)
+DISC2 (family),E285K,-4.982,0.032,censored,bound (|log2FC|>=5)
+DLG2AS (family),WT,1.864,3.64,exact,
+DLG2AS (family),R175H,2.998,7.99,exact,
+DLG2AS (family),L194F,2.937,7.66,exact,
+DLG2AS (family),R273H,4.945,30.8,exact,
+DLG2AS (family),R280K,5.62,49.19,exact,
+DLG2AS (family),E285K,5.371,41.37,exact,
+E2F4 antisense,WT,-1.646,0.319,digitized,
+E2F4 antisense,R175H,-1.261,0.417,digitized,
+E2F4 antisense,L194F,-1.261,0.417,digitized,
+E2F4 antisense,R273H,-0.981,0.507,digitized,
+E2F4 antisense,R280K,-1.769,0.293,digitized,
+E2F4 antisense,E285K,1.13,2.188,digitized,
+Emx2os,WT,-0.236,0.849,digitized,
+Emx2os,R175H,-0.788,0.579,digitized,
+Emx2os,L194F,5.0,32.0,censored,bound (|log2FC|>=5)
+Emx2os,R273H,-0.63,0.646,digitized,
+Emx2os,R280K,5.0,32.0,censored,bound (|log2FC|>=5)
+Emx2os,E285K,9.977,1007.95,exact,
+Evf1 and EVF2,WT,0.07,1.05,digitized,
+Evf1 and EVF2,R175H,1.874,3.665,digitized,
+Evf1 and EVF2,L194F,-0.044,0.97,digitized,
+Evf1 and EVF2,R273H,0.701,1.625,digitized,
+Evf1 and EVF2,R280K,-0.517,0.699,digitized,
+Evf1 and EVF2,E285K,5.0,32.0,censored,bound (|log2FC|>=5)
+GAS5-family,WT,-4.982,0.032,censored,bound (|log2FC|>=5)
+GAS5-family,R175H,-0.823,0.565,digitized,
+GAS5-family,L194F,-4.982,0.032,censored,bound (|log2FC|>=5)
+GAS5-family,R273H,-4.982,0.032,censored,bound (|log2FC|>=5)
+GAS5-family,R280K,-1.489,0.356,digitized,
+GAS5-family,E285K,0.508,1.422,digitized,
+H19 antisense,WT,-4.982,0.032,censored,bound (|log2FC|>=5)
+H19 antisense,R175H,-3.179,0.11,digitized,
+H19 antisense,L194F,-4.982,0.032,censored,bound (|log2FC|>=5)
+H19 antisense,R273H,-4.037,0.061,digitized,
+H19 antisense,R280K,-4.982,0.032,censored,bound (|log2FC|>=5)
+H19 antisense,E285K,-2.391,0.191,digitized,
+HOTAIR,WT,-1.06,0.48,digitized,
+HOTAIR,R175H,-2.04,0.243,digitized,
+HOTAIR,L194F,-2.391,0.191,digitized,
+HOTAIR,R273H,-2.942,0.13,digitized,
+HOTAIR,R280K,-2.785,0.145,digitized,
+HOTAIR,E285K,0.193,1.143,digitized,
+HOTTIP,WT,0.464,1.379,digitized,
+HOTTIP,R175H,-0.079,0.947,digitized,
+HOTTIP,L194F,1.173,2.255,digitized,
+HOTTIP,R273H,3.363,10.285,digitized,
+HOTTIP,R280K,4.457,21.964,digitized,
+HOTTIP,E285K,4.737,26.673,digitized,
+HULC,WT,2.075,4.214,digitized,
+HULC,R175H,0.114,1.082,digitized,
+HULC,L194F,1.874,3.665,digitized,
+HULC,R273H,-0.63,0.646,digitized,
+HULC,R280K,2.075,4.214,digitized,
+HULC,E285K,0.35,1.275,digitized,
+L1PA16,WT,0.972,1.962,digitized,
+L1PA16,R175H,-0.044,0.97,digitized,
+L1PA16,L194F,-0.438,0.738,digitized,
+L1PA16,R273H,1.445,2.722,digitized,
+L1PA16,R280K,1.051,2.072,digitized,
+L1PA16,E285K,2.741,6.684,digitized,
+lincRNA-p21,WT,3.37,10.34,exact,
+lincRNA-p21,R175H,1.59,3.01,exact,
+lincRNA-p21,L194F,1.915,3.77,exact,
+lincRNA-p21,R273H,2.176,4.52,exact,
+lincRNA-p21,R280K,2.587,6.01,exact,
+lincRNA-p21,E285K,3.846,14.38,exact,
+lincRNA-RoR,WT,2.347,5.087,digitized,
+lincRNA-RoR,R175H,0.385,1.306,digitized,
+lincRNA-RoR,L194F,-0.158,0.897,digitized,
+lincRNA-RoR,R273H,0.779,1.716,digitized,
+lincRNA-RoR,R280K,0.622,1.539,digitized,
+lincRNA-RoR,E285K,1.41,2.657,digitized,
+lincRNA-SFMBT2,WT,1.874,3.665,digitized,
+lincRNA-SFMBT2,R175H,0.464,1.379,digitized,
+lincRNA-SFMBT2,L194F,1.602,3.037,digitized,
+lincRNA-SFMBT2,R273H,2.855,7.233,digitized,
+lincRNA-SFMBT2,R280K,2.426,5.372,digitized,
+lincRNA-SFMBT2,E285K,4.851,28.863,digitized,
+lincRNA-VLDLR,WT,3.118,8.68,exact,
+lincRNA-VLDLR,R175H,1.926,3.8,exact,
+lincRNA-VLDLR,L194F,1.263,2.4,exact,
+lincRNA-VLDLR,R273H,2.602,6.07,exact,
+lincRNA-VLDLR,R280K,2.975,7.86,exact,
+lincRNA-VLDLR,E285K,5.53,46.19,exact,
+LUST,WT,-4.623,0.041,digitized,
+LUST,R175H,-4.982,0.032,censored,bound (|log2FC|>=5)
+LUST,L194F,-4.982,0.032,censored,bound (|log2FC|>=5)
+LUST,R273H,3.327,10.039,digitized,
+LUST,R280K,1.331,2.516,digitized,
+LUST,E285K,-1.489,0.356,digitized,
+Malat1,WT,-0.823,0.565,digitized,
+Malat1,R175H,-0.236,0.849,digitized,
+Malat1,L194F,-0.788,0.579,digitized,
+Malat1,R273H,-0.359,0.78,digitized,
+Malat1,R280K,-1.138,0.454,digitized,
+Malat1,E285K,1.524,2.875,digitized,
+mascRNA,WT,-4.982,0.032,censored,bound (|log2FC|>=5)
+mascRNA,R175H,-4.982,0.032,censored,bound (|log2FC|>=5)
+mascRNA,L194F,-4.982,0.032,censored,bound (|log2FC|>=5)
+mascRNA,R273H,-4.982,0.032,censored,bound (|log2FC|>=5)
+mascRNA,R280K,-4.982,0.032,censored,bound (|log2FC|>=5)
+mascRNA,E285K,-4.982,0.032,censored,bound (|log2FC|>=5)
+MEG9,WT,1.051,2.072,digitized,
+MEG9,R175H,2.933,7.639,digitized,
+MEG9,L194F,0.587,1.502,digitized,
+MEG9,R273H,1.839,3.577,digitized,
+MEG9,R280K,2.347,5.087,digitized,
+MEG9,E285K,4.694,25.876,digitized,
+MER11C,WT,-4.982,0.032,censored,bound (|log2FC|>=5)
+MER11C,R175H,-4.982,0.032,censored,bound (|log2FC|>=5)
+MER11C,L194F,-4.982,0.032,censored,bound (|log2FC|>=5)
+MER11C,R273H,5.0,32.0,censored,bound (|log2FC|>=5)
+MER11C,R280K,5.0,32.0,censored,bound (|log2FC|>=5)
+MER11C,E285K,-4.352,0.049,digitized,
+PCGEM1,WT,-1.06,0.48,digitized,
+PCGEM1,R175H,-4.982,0.032,censored,bound (|log2FC|>=5)
+PCGEM1,L194F,-4.982,0.032,censored,bound (|log2FC|>=5)
+PCGEM1,R273H,-4.982,0.032,censored,bound (|log2FC|>=5)
+PCGEM1,R280K,-4.982,0.032,censored,bound (|log2FC|>=5)
+PCGEM1,E285K,4.264,19.219,digitized,
+PR antisense transcripts,WT,-0.236,0.849,digitized,
+PR antisense transcripts,R175H,-0.788,0.579,digitized,
+PR antisense transcripts,L194F,-1.375,0.386,digitized,
+PR antisense transcripts,R273H,-2.469,0.181,digitized,
+PR antisense transcripts,R280K,0.701,1.625,digitized,
+PR antisense transcripts,E285K,3.792,13.848,digitized,
+snaR,WT,2.933,7.639,digitized,
+snaR,R175H,-2.942,0.13,digitized,
+snaR,L194F,-3.643,0.08,digitized,
+snaR,R273H,-1.961,0.257,digitized,
+snaR,R280K,-1.611,0.327,digitized,
+snaR,E285K,1.637,3.111,digitized,
+SNHG4,WT,9.214,594.01,exact,
+SNHG4,R175H,7.808,224.1,exact,
+SNHG4,L194F,7.122,139.25,exact,
+SNHG4,R273H,5.956,62.06,exact,
+SNHG4,R280K,5.901,59.76,exact,
+SNHG4,E285K,6.579,95.62,exact,
+Tmevpg1,WT,-0.236,0.849,digitized,
+Tmevpg1,R175H,-0.788,0.579,digitized,
+Tmevpg1,L194F,1.366,2.578,digitized,
+Tmevpg1,R273H,-0.63,0.646,digitized,
+Tmevpg1,R280K,1.839,3.577,digitized,
+Tmevpg1,E285K,1.13,2.188,digitized,
+Zeb2NAT,WT,-0.236,0.849,digitized,
+Zeb2NAT,R175H,-0.595,0.662,digitized,
+Zeb2NAT,L194F,1.095,2.135,digitized,
+Zeb2NAT,R273H,7.258,153.06,exact,
+Zeb2NAT,R280K,5.0,32.0,censored,bound (|log2FC|>=5)
+Zeb2NAT,E285K,5.0,32.0,censored,bound (|log2FC|>=5)
+Zfhx2as,WT,-0.079,0.947,digitized,
+Zfhx2as,R175H,-0.595,0.662,digitized,
+Zfhx2as,L194F,-1.182,0.441,digitized,
+Zfhx2as,R273H,1.918,3.778,digitized,
+Zfhx2as,R280K,2.347,5.087,digitized,
+Zfhx2as,E285K,5.0,32.0,censored,bound (|log2FC|>=5)

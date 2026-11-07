@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below and also cite the source study and GEO accession GSE159185."
+title: "LncAudit53: audit of the p53 lncRNA qPCR array GSE159185"
+abstract: "A reproducible audit of a public p53 lncRNA qPCR array (GEO GSE159185): literature-gap review, robustness tests and control-independent re-analysis of wild-type and mutant p53 effects in HEK293T cells."
+keywords: [p53, lncRNA, qPCR, GEO, reproducible research]
+type: software
+authors:
+  - family-names: Hasnat
+    given-names: Muhammad
+  - family-names: Anwar
+    given-names: Hammad
+date-released: 2026-11-07
+license: MIT
+repository-code: "https://github.com/OWNER/LncAudit53"
+references:
+  - type: article
+    authors:
+      - family-names: He
+        given-names: Yu-Hao
+    title: "ERα determines the chemo-resistant function of mutant p53 involving the switch between lincRNA-p21 and DDB2 expressions"
+    journal: "Molecular Therapy - Nucleic Acids"
+    volume: 25
+    start: 536
+    end: 553
+    year: 2021
+    doi: "10.1016/j.omtn.2021.07.022"
